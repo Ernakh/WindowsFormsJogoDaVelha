@@ -1,0 +1,17 @@
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\bin\Debug\net6.0-windows\WinFormsJogoDaVelha.exe
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\bin\Debug\net6.0-windows\WinFormsJogoDaVelha.deps.json
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\bin\Debug\net6.0-windows\WinFormsJogoDaVelha.runtimeconfig.json
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\bin\Debug\net6.0-windows\WinFormsJogoDaVelha.dll
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\bin\Debug\net6.0-windows\ref\WinFormsJogoDaVelha.dll
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\bin\Debug\net6.0-windows\WinFormsJogoDaVelha.pdb
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.Form1.resources
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.csproj.GenerateResource.cache
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.AssemblyInfo.cs
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.dll
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\ref\WinFormsJogoDaVelha.dll
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.pdb
+C:\Users\fabri\source\repos\WinFormsJogoDaVelha\WinFormsJogoDaVelha\obj\Debug\net6.0-windows\WinFormsJogoDaVelha.genruntimeconfig.cache
